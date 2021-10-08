@@ -5,6 +5,6 @@ public class JavTest {
     }
 
     public static void sayChert() {
-        System.out.println("Ty chert!");
+        System.out.print("Ty chert!");
     }
 }
